@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanKhieu)](https://github.com/anuraghazra/github-readme-stats)
+
 whats up
 
 <!--
